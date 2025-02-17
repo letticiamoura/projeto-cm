@@ -11,7 +11,7 @@ export default function FolhaBrutaCard () {
        {/* Custo Total da Folha */}
        <div className="bg-white p-4 shadow-lg rounded-2xl">
         <h2 className="text-xl font-bold mb-4">Custo Total da Folha</h2>
-        <p className="text-blue-600 text-2xl font-semibold">R$300,00</p>
+        <p className="text-gray-700 text-2xl font-semibold">R$300,00</p>
       </div>
 
       {/* Desconto em Folha */}
@@ -35,7 +35,7 @@ export default function FolhaBrutaCard () {
       {/* Saldo de Repasse */}
       <div className="bg-white p-4 shadow-lg rounded-2xl">
         <h2 className="text-xl font-bold mb-4">Saldo de Repasse</h2>
-        <p className="text-red-600 text-2xl font-semibold">R$100,00</p>
+        <p className="text-gray-700 text-2xl font-semibold">R$100,00</p>
       </div>
 
       {/* Outros Serviços */}
